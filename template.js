@@ -1,8 +1,11 @@
 /**
  * GRUNT SCAFFOLD
  *
- * @author  Samet Tarim aka prod3v3loper
- * @see     https://gruntjs.com/project-scaffolding
+ * @author      Samet Tarim aka prod3v3loper
+ * @link        https://www.tnado.com/author/prod3v3loper
+ * @license     MIT
+ * @see         https://gruntjs.com/project-scaffolding
+ * @see         https://github.com/prod3v3loper/Grunt-Scaffold-Template
  */
 'use strict';
 

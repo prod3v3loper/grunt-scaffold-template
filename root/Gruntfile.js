@@ -1,8 +1,11 @@
 /**
- * GRUNT
+ * GRUNTFILE
  *
- * @author  Samet Tarim aka prod3v3loper
- * @see https://gruntjs.com/getting-started
+ * @author      Samet Tarim aka prod3v3loper
+ * @link        https://www.tnado.com/author/prod3v3loper
+ * @license     MIT
+ * @see         https://gruntjs.com/getting-started
+ * @see         https://github.com/prod3v3loper/Grunt-Scaffold-Template
  */
 module.exports = function( grunt ) {
 
