@@ -85,11 +85,11 @@ npm install
 
 Now fire one of our task in your console.
 ```
-grunt build
+grunt build:release
 ```
 or
 ```
-grunt dev
+grunt build:dev
 ```
 
 ## Contribute

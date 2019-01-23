@@ -119,7 +119,7 @@ module.exports = function( grunt ) {
     grunt.loadNpmTasks( 'grunt-contrib-watch' );
 
     // @see https://gruntjs.com/api/grunt.task#grunt.task.registertask
-    grunt.task.registerTask( 'build', 'Build release files for production.', function() {
+    grunt.task.registerTask( 'build:release', 'Build release files for production.', function() {
         // Run all tasks on build
         grunt.task.run([
             {% if ( uglify ) { %}'uglify:build',{% } %}
@@ -132,7 +132,7 @@ module.exports = function( grunt ) {
     } );
 
     // @see https://gruntjs.com/api/grunt.task#grunt.task.registertask
-    grunt.task.registerTask( 'dev', 'Build dev files for development.', function() {
+    grunt.task.registerTask( 'build:dev', 'Build dev files for development.', function() {
         // Run all tasks on build
         grunt.task.run([
             {% if ( uglify ) { %}'uglify:dev',{% } %}
