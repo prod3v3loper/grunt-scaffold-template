@@ -69,6 +69,7 @@ Please answer the following:
 
 Writing Gruntfile.js...OK
 Writing public/index.html...OK
+Writing src/js/index.js...OK
 Writing package.json...OK
 
 Initialized from template "grunt-scaffold-template".
