@@ -18,6 +18,7 @@ exports.notes = 'This is a Scaffolding and we create in next steps our files.' +
 exports.warnOn = 'Gruntfile.js'; // Warn on a Gruntfile.js exists.
 exports.warnOn = 'package.json'; // Warn on a package.json exists.
 exports.warnOn = 'public/index.html'; // Warn on a index.html exists.
+exports.warnOn = 'src/js/index.js'; // Warn on a index.js exists.
 
 // https://gruntjs.com/project-scaffolding#exports.template
 exports.template = function( grunt, init, done ) {
@@ -82,8 +83,6 @@ exports.template = function( grunt, init, done ) {
         }
 
         if ( props.uglify ) {
-            grunt.file.mkdir( 'src/js' );
-            grunt.file.write( 'src/js/index.js' );
             devDependencies[ 'grunt-contrib-uglify' ] = '^4.0.0';
         }
 
