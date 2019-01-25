@@ -109,4 +109,4 @@ possible.
 
 # License
 
-[MIT]https://github.com/prod3v3loper/grunt-scaffold-template/blob/master/LICENSE)
+[MIT](https://github.com/prod3v3loper/grunt-scaffold-template/blob/master/LICENSE)
