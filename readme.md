@@ -106,3 +106,7 @@ possible.
 ## Authors
 
 * **Samet Tarim** - *All works* - [prod3v3loper](https://www.tnado.com/author/prod3v3loper/)
+
+# License
+
+[MIT]https://github.com/prod3v3loper/grunt-scaffold-template/blob/master/LICENSE)
