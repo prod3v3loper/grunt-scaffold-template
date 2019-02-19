@@ -1,5 +1,12 @@
 # Grunt JS Project Scaffolding
 
+![Languages](https://img.shields.io/github/languages/top/prod3v3loper/grunt-scaffold-template.svg?style=flat "Languages")
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/16f058b250e64060bcf9014dc72d9b7c)](https://www.codacy.com/app/prod3v3loper/grunt-scaffold-template?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prod3v3loper/grunt-scaffold-template&amp;utm_campaign=Badge_Grade)
+![Code size](https://img.shields.io/github/languages/code-size/prod3v3loper/grunt-scaffold-template.svg?style=flat "Code size")
+![Repo size](https://img.shields.io/github/repo-size/prod3v3loper/grunt-scaffold-template.svg?style=flat "Repo size")
+![License](https://img.shields.io/github/license/prod3v3loper/grunt-scaffold-template.svg?style=flat "License")
+[![alt text](https://img.shields.io/website-up-down-green-red/https/www.tnado.com/open-source-projects-by-prod3v3loper.svg?style=flat "Website")](https://www.tnado.com/open-source-projects-by-prod3v3loper/ "Website")
+
 Most use grunt and then Yeoman as an example to create a scaffolding, but you can do that only with Grunt himself.
 
 This repo here is a prepared template, you can either clone it in a folder of your choice or clone it in ./grunt-init/template to access it with Grunt.
