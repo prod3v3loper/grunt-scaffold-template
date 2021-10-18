@@ -16,13 +16,13 @@ This repo here is a prepared template, you can either clone it in a folder of yo
 First we need grunt and `grunt-init` globally available.
 
 ```
-npm install -g grunt-init
+$ npm install -g grunt-init
 ```
 
 So switch to your path you have created for your project.
 
 ```
-cd /path/to/project/
+$ cd /path/to/project/
 ```
 
 # Get Template
@@ -31,11 +31,11 @@ If we have this, almost everything is done, we just have to clone the templates 
 
 `~/.grunt-init/`
 ```
-git clone https://github.com/prod3v3loper/grunt-scaffold-template.git ~/.grunt-init/grunt-scaffold-template
+$ git clone https://github.com/prod3v3loper/grunt-scaffold-template.git ~/.grunt-init/grunt-scaffold-template
 ```
 `/path/what/you/want/`
 ```
-git clone https://github.com/prod3v3loper/grunt-scaffold-template.git /path/what/you/want/grunt-scaffold-template
+$ git clone https://github.com/prod3v3loper/grunt-scaffold-template.git /path/what/you/want/grunt-scaffold-template
 ```
 
 # Use Template
@@ -44,18 +44,20 @@ Now we can add our template to our project by executing the following command.
 
 `~/.grunt-init/`
 ```
-grunt-init ~/.grunt-init/grunt-scaffold-template
+$ grunt-init ~/.grunt-init/grunt-scaffold-template
 ```
 `/path/what/you/want/`
 ```
-grunt-init /path/what/you/want/grunt-scaffold-template
+$ grunt-init /path/what/you/want/grunt-scaffold-template
 ```
 
 When we start then we get asked with which we can still adjust our project. If all questions are answered they will be considered and the files will be created.
 
 ```
-prod3v3loper:netbeans tarim$ cd /Users/username/Sites/netbeans/PHP-Gruntjs
-prod3v3loper:PHP-Gruntjs tarim$ grunt-init /Users/username/Sites/external/grunt-scaffold-template/
+$ cd /Users/username/Sites/netbeans/PHP-Gruntjs
+
+$ grunt-init /Users/username/Sites/external/grunt-scaffold-template/
+
 Running "init:/Users/username/Sites/external/grunt-scaffold-template/" (init) task
 This task will create one or more files in the current directory, based on the
 environment and the answers to a few questions. Note that answering "?" to any
@@ -87,22 +89,22 @@ Done, without errors.
 So when we got our template we can now run `npm install` to install our dependencies. That's it, now we can use Grunt. Also run.
 
 ```
-npm install
+$ npm install
 ```
 # Run Gruntfile.js commands now
 
 Now fire one of our task in your console.
 ```
-grunt build:release
+$ grunt build:release
 ```
 or
 ```
-grunt build:dev
+$ grunt build:dev
 ```
 
 ## Contribute
 
-Please an [issue](https://github.com/prod3v3loper/Grunt-Scaffold-Template/issues) if you
+Please an [issue](https://github.com/prod3v3loper/grunt-scaffold-template/issues) if you
 think something could be improved. Please submit Pull Requests when ever
 possible.
 
@@ -113,6 +115,10 @@ possible.
 ## Authors
 
 * **Samet Tarim** - *All works* - [prod3v3loper](https://www.tnado.com/author/prod3v3loper/)
+
+## Support
+
+[Hyperly](https://www.hyperly.de/)
 
 # License
 
