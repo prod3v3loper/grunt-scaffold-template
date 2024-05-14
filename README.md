@@ -1,7 +1,6 @@
 # Grunt JS Project Scaffolding
 
 ![Languages](https://img.shields.io/github/languages/top/prod3v3loper/grunt-scaffold-template.svg?style=flat "Languages")
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/16f058b250e64060bcf9014dc72d9b7c)](https://www.codacy.com/app/prod3v3loper/grunt-scaffold-template?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prod3v3loper/grunt-scaffold-template&amp;utm_campaign=Badge_Grade)
 ![Code size](https://img.shields.io/github/languages/code-size/prod3v3loper/grunt-scaffold-template.svg?style=flat "Code size")
 ![Repo size](https://img.shields.io/github/repo-size/prod3v3loper/grunt-scaffold-template.svg?style=flat "Repo size")
 ![License](https://img.shields.io/github/license/prod3v3loper/grunt-scaffold-template.svg?style=flat "License")
@@ -108,17 +107,9 @@ Please an [issue](https://github.com/prod3v3loper/grunt-scaffold-template/issues
 think something could be improved. Please submit Pull Requests when ever
 possible.
 
-## Built with
-
-* [VSC](https://code.visualstudio.com) -  Visual Code Studio
-
 ## Authors
 
 * **Samet Tarim** - *All works* - [prod3v3loper](https://www.tnado.com/author/prod3v3loper/)
-
-## Support
-
-[Hyperly](https://www.hyperly.de/)
 
 # License
 
